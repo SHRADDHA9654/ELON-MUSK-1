@@ -1,0 +1,40 @@
+body{
+    background: rgb(238, 87, 132);
+}
+#main-image{
+    width:100%;
+    text-align: center;
+ padding-top: 100px;
+}
+#main-image img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    background: rgb(167,113,76);
+}
+#heading{
+    text-align: center;
+    font-size: 70px;
+    font-family: poppins;
+}
+
+#para1{
+    font-size: 25px;
+    text-align: center;
+}
+
+#para2{
+font-size: 15px;
+}
+#second-image{
+    text-align: center;
+}
+
+#second-image img{
+    height:100%;
+
+}
+
+#ending{
+    text-align: center;
+}
